@@ -46,11 +46,10 @@ while True:
 ## OUTPUT :
 
 ### clientoutput:
-![co](https://github.com/Reebak04/EX-8/assets/118364993/f986b8c8-71cc-43b9-be1d-e168dc371d24)
+![5co](https://github.com/Reebak04/EX-8/assets/118364993/789db051-e99b-4088-b733-c871cc46bb1f)
 
 ### serveroutput:
-![so](https://github.com/Reebak04/EX-8/assets/118364993/77e60f04-620a-4b32-9df0-dc899647d2e6)
-
+![so](https://github.com/Reebak04/EX-8/assets/118364993/79af8b63-a6ab-436d-9899-724a1d5d27a2)
 
 ## RESULT :
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links
